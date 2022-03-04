@@ -1,6 +1,6 @@
 .site-footer
 {
-  background-color:#26272b;
+  background-color:#80828d;
   padding:45px 0 20px;
   font-size:15px;
   line-height:24px;
@@ -11,7 +11,7 @@
 .site-footer hr
 {
   border-top-color:#bbb;
-  opacity:0.5
+  opacity:0.6
 }
 .site-footer hr.small
 {
